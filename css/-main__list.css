@@ -1,0 +1,21 @@
+.main__item-link {
+  display: block;
+  text-decoration: none;
+}
+
+.main__item-link-heading {
+  font-family: 'Nunito Sans';
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 26px;
+  color: #FFFFFF;
+}
+
+.main__item-link-desc {
+  font-family: 'Nunito Sans';
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 16px;
+  color: #FFFFFF;
+}
+/*# sourceMappingURL=-main__list.css.map */
